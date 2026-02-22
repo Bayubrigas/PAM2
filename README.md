@@ -75,3 +75,10 @@ com.example.newsfeed/
 - **Jetpack Compose** (UI)
 - **ViewModel + StateFlow** (state management)
 - **Kotlin Multiplatform** (struktur project)
+
+
+## Screenshot Aplikasi
+
+<img width="1080" height="2400" alt="Screenshot_20260222_142447" src="https://github.com/user-attachments/assets/272baada-f26f-4ee1-a0a0-cd6e93450b48" />
+
+<img width="1080" height="2400" alt="Screenshot_20260222_142430" src="https://github.com/user-attachments/assets/043a5a7b-d081-4443-84cb-1094093e0b98" />
